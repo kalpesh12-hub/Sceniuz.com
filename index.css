@@ -344,17 +344,18 @@ nav ul li a {
 /* Home Page */
 
 .h2-heading {
-    font-size: 34px;
+    font-size: 39px !important;
     margin-top: 26px;
     font-family: system-ui;
     font-weight: lighter;
 }
 
 .h3-heading {
-    font-size: 33px;
+    font-size: 48px;
     font-family: revert;
     font-weight: lighter;
     color: #7c7b7b;
+    margin-bottom: 32px;
 }
 
 .a-tag {
@@ -390,9 +391,11 @@ nav ul li a {
 }
 
 
+
+
 @media only screen and (min-width: 300px) {
     .h2-heading {
-        font-size: 26px;
+        font-size: 26px ;
     }
 
     .h3-heading {
