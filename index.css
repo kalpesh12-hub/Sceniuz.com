@@ -393,6 +393,12 @@ nav ul li a {
 }
 
 
+.a-tag:hover {
+    color: #8600ff;
+    text-decoration: none;
+    
+}
+
 
 
 @media only screen and (min-width: 300px) {
